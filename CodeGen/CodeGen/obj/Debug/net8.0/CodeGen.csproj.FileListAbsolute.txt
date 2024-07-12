@@ -1,0 +1,14 @@
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\bin\Debug\net8.0\CodeGen.exe
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\bin\Debug\net8.0\CodeGen.deps.json
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\bin\Debug\net8.0\CodeGen.runtimeconfig.json
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\bin\Debug\net8.0\CodeGen.dll
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\bin\Debug\net8.0\CodeGen.pdb
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\obj\Debug\net8.0\CodeGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\obj\Debug\net8.0\CodeGen.AssemblyInfoInputs.cache
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\obj\Debug\net8.0\CodeGen.AssemblyInfo.cs
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\obj\Debug\net8.0\CodeGen.csproj.CoreCompileInputs.cache
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\obj\Debug\net8.0\CodeGen.dll
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\obj\Debug\net8.0\refint\CodeGen.dll
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\obj\Debug\net8.0\CodeGen.pdb
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\obj\Debug\net8.0\CodeGen.genruntimeconfig.cache
+C:\Users\sulta\OneDrive\سطح المكتب\Source\CodeGen\CodeGen\obj\Debug\net8.0\ref\CodeGen.dll

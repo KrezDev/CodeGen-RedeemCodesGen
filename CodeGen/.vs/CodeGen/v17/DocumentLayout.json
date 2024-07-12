@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sulta\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Source\\CodeGen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2516EA23-BA1E-4FDA-9182-C28732F7DCB3}|CodeGen\\CodeGen.csproj|c:\\users\\sulta\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\source\\codegen\\codegen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2516EA23-BA1E-4FDA-9182-C28732F7DCB3}|CodeGen\\CodeGen.csproj|solutionrelative:codegen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sulta\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Source\\CodeGen\\CodeGen\\Program.cs",
+              "RelativeDocumentMoniker": "CodeGen\\Program.cs",
+              "ToolTip": "C:\\Users\\sulta\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Source\\CodeGen\\CodeGen\\Program.cs",
+              "RelativeToolTip": "CodeGen\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:13:14.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
